@@ -1,4 +1,4 @@
-baseURL       = "https://aftree.cc/"
+baseURL       = "https://lijun.in/"
 languageCode  = "en-us"
 title         = "aftree | 壹棵开花的树"
 theme         = "aftree"
@@ -16,7 +16,7 @@ summarylength = 25
     url     = "https://aftree.gitbook.io/command/"
     weight  = 2  
   [[menu.nav]]
-    name    = "DevOps"
+    name    = "Blogs"
     url     = "https://www.cnblogs.com/aftree/"
     weight  = 3
   [[menu.nav]]
@@ -24,13 +24,17 @@ summarylength = 25
     url     = "https://www.baidu.com"
     weight  = 4
   [[menu.nav]]
-    name    = "OpenStack"
-    url     = "https://www.baidu.com"
+    name    = "Devops"
+    url     = "https://devops.lijun.in"
     weight  = 5
   [[menu.nav]]
-    name    = "Kubernetes"
+    name    = "OpenStack"
     url     = "https://www.baidu.com"
     weight  = 6  
+  [[menu.nav]]
+    name    = "Kubernetes"
+    url     = "https://k8s.lijun.in"
+    weight  = 7 
   [[menu.nav]]
     name    = "Books"
     url     = "portfolio"

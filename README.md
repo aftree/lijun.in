@@ -24,7 +24,7 @@ hugo server -D
 生成到docs目录
 
 ```bash
-hugo  --baseUrl="https://aftree.cc/" -d docs
+hugo  --baseUrl="https://lijun.in/" -d docs
 ```
 
 roxo模板，可以修改
