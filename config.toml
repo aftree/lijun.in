@@ -1,0 +1,71 @@
+baseURL       = "https://aftree.cc/"
+languageCode  = "en-us"
+title         = "aftree | 壹棵开花的树"
+theme         = "aftree"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Site"
+    url     = "https://i.lijun.in"
+    weight  = 1
+  [[menu.nav]]
+    name    = "Command"
+    url     = "https://aftree.gitbook.io/command/"
+    weight  = 2  
+  [[menu.nav]]
+    name    = "DevOps"
+    url     = "https://www.cnblogs.com/aftree/"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Baidu"
+    url     = "https://www.baidu.com"
+    weight  = 4
+  [[menu.nav]]
+    name    = "OpenStack"
+    url     = "https://www.baidu.com"
+    weight  = 5
+  [[menu.nav]]
+    name    = "Kubernetes"
+    url     = "https://www.baidu.com"
+    weight  = 6  
+  [[menu.nav]]
+    name    = "Books"
+    url     = "portfolio"
+    weight  = 10
+
+# Site Params
+[params]
+  logo = "images/logo.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "aftree Hugo themes | Creative Design  Template by aftree"
+  author = "aftree"
+  
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background.jpg"
+    heading               = "人生得意须尽欢莫使金樽空对月"
+    tagline               = "壹棵开花的树"
+    primary_button        = "故宫博物院"
+    primary_button_url    = "https://www.dpm.org.cn/"
+    secondary_button      = "国家博物馆"
+    secondary_button_url  = "http://www.chnmuseum.cn/"
+
+  [params.footer]
+      [params.footer.a]
+      title   = "壹棵开花的树"
+      description = "如何让你遇见我<br>在我最美丽的时刻<br><br>为这<br>我已在佛前求了五百年<br>求佛让我们结一段尘缘<br>"
+
+      [params.footer.b]
+        title       = "O"
+        description = "佛於是把我化做一棵树<br>长在你必经的路旁<br><br>阳光下<br>慎重地开满了花<br>朵朵都是我前世的盼望<br>"
+      [params.footer.c]
+        title       = "O"
+        description = "当你走近<br>请你细听<br>那颤抖的叶<br>是我等待的热情<br>"
+      [params.footer.d]
+        title       = "O"
+        description = "而当你终於无视地走过<br>在你身後落了一地的<br>朋友啊<br>那不是花瓣<br>那是我凋零的心"
