@@ -1,15 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aftree | 壹棵开花的树</title>
+    <title>壹棵开花的树</title>
     <link>https://lijun.in/</link>
-    <description>Recent content on aftree | 壹棵开花的树</description>
+    <description>Recent content on 壹棵开花的树</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 20:56:42 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 20:56:42 +0600</lastBuildDate>
     
 	<atom:link href="https://lijun.in/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloud Native</title>
+      <link>https://lijun.in/cloudnative/cloud-native/</link>
+      <pubDate>Sun, 29 Dec 2019 20:56:42 +0600</pubDate>
+      
+      <guid>https://lijun.in/cloudnative/cloud-native/</guid>
+      <description>容器 云原生应用的最小的构建单元，一次构建，到处运行。
+
+Kubernetes 云原生操作系统，声明式 API 是它的核心，Operator 操控万物。
+
+Service Mesh 服务网格作为云原生网络基础设施，负责服务间通信的一切方面。
+
+Serverless 可预见时间内的云原生的终极形式，真正的按需使用和按量付费。</description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://lijun.in/cloudnative/docker/</link>
+      <pubDate>Sat, 28 Dec 2019 15:44:46 +0600</pubDate>
+      
+      <guid>https://lijun.in/cloudnative/docker/</guid>
+      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+The watch has the following features:</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://lijun.in/cloudnative/kubernetes/</link>
+      <pubDate>Fri, 27 Dec 2019 15:56:43 +0600</pubDate>
+      
+      <guid>https://lijun.in/cloudnative/kubernetes/</guid>
+      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+The watch has the following features:</description>
+    </item>
+    
+    <item>
+      <title>Service Mesh</title>
+      <link>https://lijun.in/cloudnative/service-mesh/</link>
+      <pubDate>Thu, 26 Dec 2019 15:55:44 +0600</pubDate>
+      
+      <guid>https://lijun.in/cloudnative/service-mesh/</guid>
+      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+The watch has the following features:</description>
+    </item>
+    
+    <item>
+      <title>Serverless</title>
+      <link>https://lijun.in/cloudnative/serverless/</link>
+      <pubDate>Wed, 25 Dec 2019 15:58:10 +0600</pubDate>
+      
+      <guid>https://lijun.in/cloudnative/serverless/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>KIO-TAPE BRAND</title>

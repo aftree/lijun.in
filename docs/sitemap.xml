@@ -3,8 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lijun.in/cloudnative/cloud-native/</loc>
+    <lastmod>2019-12-29T20:56:42+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lijun.in/</loc>
-    <lastmod>2019-12-23T20:56:42+06:00</lastmod>
+    <lastmod>2019-12-29T20:56:42+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lijun.in/cloudnative/docker/</loc>
+    <lastmod>2019-12-28T15:44:46+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lijun.in/cloudnative/kubernetes/</loc>
+    <lastmod>2019-12-27T15:56:43+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lijun.in/cloudnative/service-mesh/</loc>
+    <lastmod>2019-12-26T15:55:44+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lijun.in/cloudnative/serverless/</loc>
+    <lastmod>2019-12-25T15:58:10+06:00</lastmod>
   </url>
   
   <url>
@@ -14,6 +39,11 @@
   
   <url>
     <loc>https://lijun.in/portfolio/</loc>
+    <lastmod>2019-12-23T16:48:28+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lijun.in/cloudnative/</loc>
     <lastmod>2019-12-23T16:48:28+06:00</lastmod>
   </url>
   
